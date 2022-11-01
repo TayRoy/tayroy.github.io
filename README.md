@@ -101,4 +101,4 @@ Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansimar Bhasin.
 [^2]: Andrew Etter's *Modern Technical Writing*., p. 33
 [^3]: Andrew Etter's *Modern Technical Writing*., p. 50
 [^4]: Andrew Etter's *Modern Technical Writing*., p. 75
-[^4]: Andrew Etter's *Modern Technical Writing*., p. 47
+[^5]: Andrew Etter's *Modern Technical Writing*., p. 47
