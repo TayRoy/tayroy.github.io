@@ -21,7 +21,7 @@ The links above will direct you to where to download & obtain the prerequisites 
 
 ### Step 2: Create a new repository on GitHub with GitHub Pages
 
-1. Create a new repository and name it as >[your-github-name].github.io
+1. Create a new repository and name it as `[your-github-name].github.io`
 
 Follow this [tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) on how to create a GitHub Pages repository to host your site.
 
