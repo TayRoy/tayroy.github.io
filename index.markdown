@@ -38,8 +38,6 @@ Bilingual (English/French) 7th-year computer science student at the University o
 
 ## Skills
 - Bilingual (English/French)
-- Coding languages: 
-  - Java, Python, C, C++, Ruby
-- Quering languages:
-   - SQL
+- Programming languages: 
+  - Java, Python, C, C++, Ruby, SQL
 - Experience with R, Markdown & MongoDB
