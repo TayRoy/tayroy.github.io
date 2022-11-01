@@ -29,9 +29,9 @@ The purpose of this README is to demonstrate how you can host and format your ow
 ### Step 3: Create your Jekyll site
 
 1. Create a Jekyll site `resume`
-  * In the terminal, enter `jekyll new resume`.
+  In the terminal, enter `jekyll new resume`.
 2. Change into your new `resume` directory
-  * In the terminal, enter `cd resume`.
+    In the terminal, enter `cd resume`.
 3. Add `gem "webrick"` on a new line in the Gemfile
 4. Build the site locally
     * In the terminal, enter `bundle exec jekyll serve`.
