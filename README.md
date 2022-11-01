@@ -34,9 +34,9 @@ The purpose of this README is to demonstrate how you can host and format your ow
   * In the terminal, enter `cd resume`.
 3. Add `gem "webrick"` on a new line in the Gemfile
 4. Build the site locally
-  * In the terminal, enter `bundle exec jekyll serve`.
+    * In the terminal, enter `bundle exec jekyll serve`.
 5. Access your website locally
-  * In your web browser, visit `http://localhost:4000`.
+    * In your web browser, visit `http://localhost:4000`.
 
 You will now be seeing the default Jekyll website.
 
