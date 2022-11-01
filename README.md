@@ -6,7 +6,7 @@ The purpose of this README is to demonstrate how you can host and format your ow
 
 ## Prerequisites
 
-* Resume formatted in [GitHub Flavoured Markdown](https://github.github.com/gfm/)
+* Resume formatted in Markdown
   * Markdown Editor ([local](https://typora.io/) or [web-based](https://stackedit.io))
 * [GitHub account](https://github.com/)
 * [GitHub CLI](https://cli.github.com/) (optional, will be used for this demonstration)
@@ -21,14 +21,19 @@ The links above will direct you to where to download & obtain the prerequisites 
 
 ### Step 2: Create a new repository on GitHub with GitHub Pages
 
+1. Create a new repository and name it as >[your-github-name].github.io
+
 Follow this [tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) on how to create a GitHub Pages repository to host your site.
 
-Host your resume on Github
-
-Install Jekyll
 (everything else that comes with this as well)
 
 add gem "webrick" to Gemfile
+
+### More Resources
+
+* [GitHub Flavoured Markdown Tutorial](https://github.github.com/gfm/)
+* [Andrew Etter's *Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* ...
 
 ## Authors & Acknowledgements
 
