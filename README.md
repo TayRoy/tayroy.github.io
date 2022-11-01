@@ -83,7 +83,7 @@ There are plenty of available themes to choose from for Jekyll. Check [More Reso
 
 Authored by Taylor Roy. <br>
 Concepts related from Andrew Etter's *Modern Technical Writing*<br>
-Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansomar Singh.
+Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansimar Bhasin.
 
 ## FAQs
 
@@ -91,7 +91,7 @@ Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansomar Singh.
     * Markdown is better than a wood processor as it allows the user a lot more freedom for formatting, and later for publishing. Markdown and all its flavours allow web writers to produce static web content much easier without having to write in the less readable HTML. 
 
 2. Why is my resume not showing up?
-    * If you are able to run your website through Jekyll and your resume is not showing up, there may be a few potential solutions. Firstly, check and see if your resume Markdown file is located in your Jekyll repository. This will be the same folder/directory containing your Gemfile. If it still is not showing up, try adding "layout: page" to your Markdown header within your resume file. 
+    * If you are able to run your website through Jekyll and your resume is not showing up, there may be a few potential solutions. Firstly, make sure your resume is Markdown-formatted and not a text file. Next, check and see if your resume Markdown file is located in your Jekyll repository. This will be the same folder/directory containing your Gemfile. If it still is not showing up, try adding "layout: page" to your Markdown header within your resume file. If still you are encountering issues, revert back to [Step 4](#step-4-upload-your-resume-to-your-website).
 
 [^1]: Andrew Etter's *Modern Technical Writing*., p. 80
 [^2]: Andrew Etter's *Modern Technical Writing*., p. 33
