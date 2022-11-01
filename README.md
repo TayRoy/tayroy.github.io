@@ -7,27 +7,49 @@ The purpose of this README is to demonstrate how you can host and format your ow
 ## Prerequisites
 
 * Resume formatted in Markdown
-  * Markdown Editor ([local](https://typora.io/) or [web-based](https://stackedit.io))
+  * (Optional) Markdown Editor ([local](https://typora.io/) or [web-based](https://stackedit.io))
 * [GitHub account](https://github.com/)
-* [GitHub CLI](https://cli.github.com/) (optional, will be used for this demonstration)
-...
-* Jekyll
+* [Ruby](https://www.ruby-lang.org/en/downloads/)
+* [RubyGems](https://rubygems.org/pages/download)
+* [GCC](https://gcc.gnu.org/install/)
+* [Jekyll](https://jekyllrb.com/docs/installation/windows/)
 
 ## Instructions
 
 ### Step 1: Acquire the prerequisites listed above
 
-The links above will direct you to where to download & obtain the prerequisites and how to install them.
+1. Install the prerequisites listed above
 
-### Step 2: Create a new repository on GitHub with GitHub Pages
+### Step 2: Create a new repository on GitHub
 
-1. Create a new repository and name it as `[your-github-name].github.io`
+1. Create a new public repository
+2. Name the repository as `[your-github-username].github.io`
+  * This will be the link you will use to later access your website.
 
-Follow this [tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) on how to create a GitHub Pages repository to host your site.
+### Step 3: Create your Jekyll site
 
-(everything else that comes with this as well)
+1. Create a Jekyll site `resume`
+  * In the terminal, enter `jekyll new resume`.
+2. Change into your new `resume` directory
+  * In the terminal, enter `cd resume`.
+3. Add `gem "webrick"` on a new line in the Gemfile
+3. Build the site locally
+  * In the terminal, enter `bundle exec jekyll serve`.
+4. Access your website locally
+  * In your web browser, visit `http://localhost:4000`.
 
-add gem "webrick" to Gemfile
+You will now be seeing the default Jekyll website.
+
+### Step 4: Upload your resume to your website
+
+1. Rename your Markdown-formated resume to `index.markdown`
+  * This will make the homepage to your website your resume.
+2. Remove the `about.markdown` file from the repository
+3. Remove the plugins from the `_configs.yml` file in the repository
+
+### Step 5: Host your website using GitHub Pages
+
+1. 
 
 ### More Resources
 
@@ -38,8 +60,8 @@ add gem "webrick" to Gemfile
 ## Authors & Acknowledgements
 
 Authored by Taylor Roy. <br>
-Edited by Vedant Pulahru, Josh Sigurdson & Mansomar Singh. <br>
-Jekyll Theme created by ...
+Concepts related from Andrew Etter's *Modern Technical Writing*<br>
+Peer rewviewed by Vedant Pulahru, Josh Sigurdson & Mansomar Singh.
 
 ## FAQs
 
