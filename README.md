@@ -42,12 +42,15 @@ You will now be seeing the default Jekyll website.
 
 ### Step 4: Upload your resume to your website
 
+![Step 4](step4.gif)
+
 1. Rename your Markdown-formatted resume to `index.markdown`
     * This will display your resume as the homepage to your website.
 2. Add a header to your Markdown-formatted resume
-3. Set your title in your header and set layout to `home`
-4. Remove the `about.markdown` file from the repository
-5. Remove the plugins from the `_configs.yml` file in the repository
+3. Add `layout: home` to your header
+4. Add `title: [your-title]` to your header
+5. Remove the `about.markdown` file from the repository
+6. Remove the plugins from the `_configs.yml` file in the repository
 
 ### Step 5: Host your website using GitHub Pages
 
@@ -64,7 +67,7 @@ Your website should now be hosted.
 
 There are plenty of available themes to choose from for Jekyll. Check More Resources below for a range of resume Jekyll themes. 
 
-### More Resources
+## More Resources
 
 * [GitHub Flavoured Markdown Tutorial](https://github.github.com/gfm/)
 * [Andrew Etter's *Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
