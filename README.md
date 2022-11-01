@@ -69,6 +69,10 @@ You will now be seeing the default Jekyll website.
 
 Your website should now be hosted.
 
+### Step 6: Create a README
+
+As I hope you found this README helpful, I hope you also create your own for the purposes of aiding others in how to create and host their own resumes. If you made it this far, you should now know everything needed to explain to others how to host their resume online.[^1] Your README should contain a summary of your work and instructions similar to the ones you followed.[^5] 
+
 ### Step 6: Customize
 
 There are plenty of available themes to choose from for Jekyll. Check [More Resources](#more-resources) below for a range of resume Jekyll themes. Maintain the readability of your resume when choosing a theme. It is important that your resume remains intriguing and distinguishable to your prospectiove employers.[^1] 
@@ -97,3 +101,4 @@ Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansimar Bhasin.
 [^2]: Andrew Etter's *Modern Technical Writing*., p. 33
 [^3]: Andrew Etter's *Modern Technical Writing*., p. 50
 [^4]: Andrew Etter's *Modern Technical Writing*., p. 75
+[^4]: Andrew Etter's *Modern Technical Writing*., p. 47
