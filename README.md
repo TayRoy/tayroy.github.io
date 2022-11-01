@@ -28,7 +28,7 @@ The purpose of this README is to demonstrate how you can host and format your ow
 1. Install the prerequisites listed above
 
 Markdown is a popular markup language used by web editors to produce content easily online. It is more lightweight compared to other markup languages such as XML, meaning it is much more readable and user-friendly.[^2]<br> 
-Jekyll is a static website generator that allows its users to create and host their own websites. Static websites are perfect to use for hosting a site as simple as a resume. It allows for the usage of pages from Markdown files that can be added and edited whenever needed.[^3] As your resume should be a single page (or many, to your choosing), Jekyll provides a simple and easy to use resource to host your website. If any new experience is needed to be added to your resume, simply add it to your respective Markdown file and commit to your respository. 
+Jekyll is a static website generator that allows its users to create and host their own websites. Static websites are perfect to use for hosting a site as simple as a resume. It allows for the usage of pages from Markdown files that can be added and edited whenever needed.[^3] As your resume should be a single page (or many, to your choosing), Jekyll provides a simple and easy to use resource to host your website. If any new experience is needed to be added to your resume, simply add it to your respective Markdown file and commit to your respository. <br>
 GitHub allows users to share and collaborate on distributed projects. GitHub also allows for version control which allows users to view change logs and previous versions of the project. This can be useful for reviewing when an error may have occurred and what stage to revert to to rectify the issue.[^4]
 
 ### Step 2: Create a new repository on GitHub
@@ -81,7 +81,7 @@ As I hope you found this README helpful, I hope you also create your own for the
 
 ### Step 7: Customize
 
-There are plenty of available themes to choose from for Jekyll. Check [More Resources](#more-resources) below for a range of resume Jekyll themes. Maintain the readability of your resume when choosing a theme. It is important that your resume remains intriguing and distinguishable to your prospectiove employers.[^1] 
+There are plenty of available themes to choose from for Jekyll. Check [More Resources](#more-resources) below for a range of resume Jekyll themes. Maintain the readability of your resume when choosing a theme. It is important that your resume remains intriguing and distinguishable to your prospective employers.[^1] 
 
 ## More Resources
 
