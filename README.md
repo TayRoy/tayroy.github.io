@@ -8,6 +8,7 @@ The purpose of this README is to demonstrate how you can host and format your ow
 
 * Resume formatted in Markdown
   * (Optional) Markdown Editor ([local](https://typora.io/) or [web-based](https://stackedit.io))
+  * For your resume, make sure you only include information that is necessary for your prospective employers to know. You should be including any relevant work experience and education, you need not include your personal information other than your name and contact information.[^1]
 * [GitHub account](https://github.com/)
 * [Ruby](https://www.ruby-lang.org/en/downloads/)
 * [RubyGems](https://rubygems.org/pages/download)
@@ -20,8 +21,8 @@ The purpose of this README is to demonstrate how you can host and format your ow
 
 1. Install the prerequisites listed above
 
-Markdown is a popular markup language used by web editors to produce content easily online. It is more lightweight compared to other markup languages such as XML, meaning it is much more readable and user-friendly.[^1]<br> 
-Jekyll is a static website generator that allows its users to create and host their own websites. Static websites are perfect to use for hosting a site as simple as a resume. It allows for the usage of pages from Markdown files that can be added and edited whenever needed.[^2] As your resume should be a single page (or many, to your choosing), Jekyll provides a simple and easy to use resource to host your website.<br>
+Markdown is a popular markup language used by web editors to produce content easily online. It is more lightweight compared to other markup languages such as XML, meaning it is much more readable and user-friendly.[^2]<br> 
+Jekyll is a static website generator that allows its users to create and host their own websites. Static websites are perfect to use for hosting a site as simple as a resume. It allows for the usage of pages from Markdown files that can be added and edited whenever needed.[^3] As your resume should be a single page (or many, to your choosing), Jekyll provides a simple and easy to use resource to host your website. If any new experience is needed to be added to your resume, simply add it to your respective Markdown file and commit to your respository. 
 
 ### Step 2: Create a new repository on GitHub
 
@@ -69,7 +70,7 @@ Your website should now be hosted.
 
 ### Step 6: Customize
 
-There are plenty of available themes to choose from for Jekyll. Check More Resources below for a range of resume Jekyll themes. 
+There are plenty of available themes to choose from for Jekyll. Check More Resources below for a range of resume Jekyll themes. Maintain the readability of your resume when choosing a theme. It is important that your resume remains intriguing and distinguishable to your prospectiove employers.[^1] 
 
 ## More Resources
 
@@ -91,7 +92,6 @@ Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansomar Singh.
 2. Why is my resume not showing up?
     * If you are able to run your website through Jekyll and your resume is not showing up, there may be a few potential solutions. Firstly, check and see if your resume Markdown file is located in your Jekyll repository. This will be the same folder/directory containing your Gemfile. If it still is not showing up, try adding "layout: page" to your Markdown header within your resume file. 
 
-## References
-
-[^1]: Andrew Etter's *Modern Technical Writing*., p. 33
-[^2]: Andrew Etter's *Modern Technical Writing*., p. 50
+[^1]: Andrew Etter's *Modern Technical Writing*., p. 80
+[^2]: Andrew Etter's *Modern Technical Writing*., p. 33
+[^3]: Andrew Etter's *Modern Technical Writing*., p. 50
