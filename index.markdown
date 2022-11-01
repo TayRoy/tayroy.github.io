@@ -29,6 +29,9 @@ Bilingual (English/French) 7th-year computer science student at the University o
 
 ## Education
 
+### Computer Science Major, University of Manitoba
+- Currently enrolled in undergrad with graduation set for Winter 2023.
+
 ### High School Diploma, College Beliveau
 - Awarded thrice Certificate of Excellence for academic performance
 - Awarded the University of Manitoba Hogg Centennial Entrance Scholarship for academic excellence
