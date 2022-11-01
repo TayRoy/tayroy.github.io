@@ -43,6 +43,7 @@ You will now be seeing the default Jekyll website.
 ### Step 4: Upload your resume to your website
 
 ![Step 4](step4.gif)
+*Showcasing substeps 2 through 4*
 
 1. Rename your Markdown-formatted resume to `index.markdown`
     * This will display your resume as the homepage to your website.
