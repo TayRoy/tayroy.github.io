@@ -33,16 +33,16 @@ The purpose of this README is to demonstrate how you can host and format your ow
 2. Change into your new `resume` directory
   * In the terminal, enter `cd resume`.
 3. Add `gem "webrick"` on a new line in the Gemfile
-3. Build the site locally
+4. Build the site locally
   * In the terminal, enter `bundle exec jekyll serve`.
-4. Access your website locally
+5. Access your website locally
   * In your web browser, visit `http://localhost:4000`.
 
 You will now be seeing the default Jekyll website.
 
 ### Step 4: Upload your resume to your website
 
-1. Rename your Markdown-formated resume to `index.markdown`
+1. Rename your Markdown-formatted resume to `index.markdown`
   * This will make the homepage to your website your resume.
 2. Remove the `about.markdown` file from the repository
 3. Remove the plugins from the `_configs.yml` file in the repository
@@ -61,7 +61,7 @@ You will now be seeing the default Jekyll website.
 
 Authored by Taylor Roy. <br>
 Concepts related from Andrew Etter's *Modern Technical Writing*<br>
-Peer rewviewed by Vedant Pulahru, Josh Sigurdson & Mansomar Singh.
+Peer reviewed by Vedant Pulahru, Josh Sigurdson & Mansomar Singh.
 
 ## FAQs
 
