@@ -4,6 +4,8 @@ title: README
 permalink: /readme/
 ---
 
+# README
+
 ## Purpose
 
 The purpose of this README is to demonstrate how you can host and format your own resume using Markdown, StackEdit, Github Pages and Jekyll. This demonstration will be performed by relating what we have learned from Andrew Etter's book *Modern Technical Writing*.
